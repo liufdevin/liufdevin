@@ -1,57 +1,79 @@
-<h1 align="center">Hi 👋, I'm an Embedded Android Engineer</h1>
+<h1 align="center">Hi 👋, I'm an Android & Embedded Engineer</h1>
 
 <p align="center">
-  ⚙️ Android BSP / HAL / Framework Developer  
-  📱 Embedded Linux | 📷 Camera ISP | 🤖 Edge AI
+  📱 Android App & Flutter Developer  
+  ⚙️ Android Framework / HAL / Driver Developer  
+  🧩 Allwinner SoC Customization Engineer  
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔧 Embedded Android Software Engineer
-- 📱 Focus on Android Framework / HAL / Native Service
-- ⚙️ Linux Kernel / Driver / Device Tree
-- 📷 Camera ISP / Image Pipeline / Dual camera tuning
-- 🤖 Edge AI inference (ONNX / TensorRT / OpenCV)
-- 🏭 Industrial product development experience
+- 📱 Android App Development (Java / Kotlin)
+- 🌐 Flutter Cross-platform App Development
+- ⚙️ Android Framework Layer Development (AOSP)
+- 🔧 Android Driver / HAL / Kernel customization
+- 🧩 Allwinner SoC platform development & porting
+- 🏭 Embedded Linux product development experience
+
+---
+
+## 🧩 Allwinner SoC Experience
+
+I have experience working with Allwinner platforms:
+
+- 🚀 A133
+- ⚡ A523
+- 🔥 A733
+- 🧠 T507
+- 🧠 T527
+- 🚀 T736
+
+📌 Including:
+- BSP adaptation
+- Kernel & Device Tree porting
+- Android system bring-up
+- Display / Camera / Audio tuning
+- Performance & stability optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Android Stack
-- Android Framework (System Service / Binder / AMS / WMS)
-- HAL (Camera / Sensor / Audio)
-- AOSP Build System (Soong / Make)
-- NDK / Native C++
+### 📱 Android Development
+- Android App (Java / Kotlin)
+- Flutter (Dart)
+- AOSP Framework (AMS / WMS / System Service)
+- HAL Layer Development
+- JNI / Native integration
 
-### ⚙️ Embedded Linux
-- Linux Kernel / Driver
-- Device Tree
-- systemd / BusyBox
-- Bootloader (U-Boot basic)
+### ⚙️ Embedded Linux / BSP
+- Linux Kernel Driver Development
+- Device Tree (DTS)
+- U-Boot / Boot process
+- Buildroot / system integration
 
-### 📷 Vision / AI (Edge)
-- OpenCV
-- ONNX Runtime
-- YOLO / PatchCore / PaDiM
-- Edge deployment on ARM
+### 🧩 SoC Platform
+- Allwinner A-series / T-series platform adaptation
+- BSP bring-up
+- Hardware interface debugging (I2C / SPI / UART / MIPI)
 
 ### 💻 Languages
-- C / C++
 - Java / Kotlin
+- Dart
+- C / C++
 - Python
 
 ---
 
 ## 🚀 Projects
 
-- 📷 Camera ISP tuning & pipeline optimization
-- 📱 Android system service customization
-- 🧠 Edge AI inference (ONNX on ARM devices)
-- 🧵 Fabric defect detection (YOLO / anomaly detection)
-- ⚡ Embedded Linux product development
+- 📱 Android App & Flutter product development
+- ⚙️ Android Framework customization & system service development
+- 🔧 Allwinner SoC BSP bring-up & hardware adaptation
+- 📷 Camera / Display / Audio driver tuning
+- 🧠 Embedded Linux system optimization
 
 ---
 
@@ -75,7 +97,7 @@
 
 <p align="center">
   <a href="https://githubroast.icu/u/liufdevin">
-    <img src="https://githubroast.icu/api/badge/liufdevin" alt="GitHub Roast Badge"/>
+    <img src="https://githubroast.icu/api/badge/liufdevin" />
   </a>
 </p>
 
@@ -87,4 +109,4 @@
 
 ---
 
-💡 *“Close to hardware, clean in architecture, stable in production.”*
+💡 *“From App to Framework to Kernel — Full-stack Android Engineering.”*
